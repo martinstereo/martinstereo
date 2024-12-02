@@ -1,6 +1,4 @@
 # 👋 Hi, I'm Martin Steiro!
-
-## 🚀 About Me  
 - 🎓 I'm a passionate **third-year IT and Information Systems student** at UiA exploring front-end development and trying out new technologies.
 
 ## 🔭 I’m currently working on ...
