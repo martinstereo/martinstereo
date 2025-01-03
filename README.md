@@ -1,5 +1,4 @@
-## Hi, I'm Martin 👋
-- I'm a passionate **third-year IT and Information Systems student** at UiA exploring front-end development and trying out new technologies.
+# Hello, I'm Martin
+### I am a IT-student and an aspiring front-end developer.
 
-### 🔭 I’m currently working on ...
-  - An ecommerce website from a React-course on Udemy. [Visit the repository](https://github.com/martinstereo/mirror-clothing) to see what I'm learning.
+I'm a third year IT-student @UiA and currently learning front-end development in my free time. Step by step.
