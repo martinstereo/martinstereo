@@ -1,5 +1,5 @@
 # Hello, I'm Martin
-### IT-student and aspiring front-end developer.
+### IT-student and aspiring developer.
 <br>
 
 *<h4 align='center'>“There is always something left to love.”</h4>*
