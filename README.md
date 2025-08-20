@@ -1,5 +1,5 @@
 # Hello, I'm Martin!
-### IT-student and aspiring developer.
+### Currently taking a Masters in Cybersecurity Management
 <br>
 
 *<h4 align='center'>“There is always something left to love.”</h4>*
